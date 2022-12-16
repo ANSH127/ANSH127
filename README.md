@@ -32,7 +32,7 @@
 ---
 
 ### :fire: My Stats :
-[![Ansh’s github stats](https://github-readme-stats.vercel.app/api?username=the-error4-0-4&theme=highcontrast&showicons=true)](https://github.com/the-erro4-0-4)
+[![Ansh’s github stats](https://github-readme-stats.vercel.app/api?username=the-error4-0-4&theme=highcontrast&showicons=true)](https://github.com/the-error4-0-4)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-error4-0-4&layout=compact&theme=vision-friendly-dark)](https://github.com/the-error4-0-4)
 <br>
