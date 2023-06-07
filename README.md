@@ -8,7 +8,7 @@ Full Stack Web Devloper
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [anshdev.com](http://anshdev.com)
 * ✉️  You can contact me at [anshagrawal12348@gmail.com](mailto:anshagrawal12348@gmail.com)
-* 🧠  I'm learning GraphQL
+* 🧠  I'm learning Gatsby
 
 
 ### Skills
