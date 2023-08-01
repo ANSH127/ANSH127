@@ -47,7 +47,7 @@ Full Stack Web Developer
 ### Socials
 
 <p align="left">
-<a href="https://www.github.com/the-error4-0-4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/ANSH127" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.instagram.com/i_agarwal_ansh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/ansh-agarwal-390797253/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/i_anshdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
@@ -60,8 +60,8 @@ Full Stack Web Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/the-error4-0-4"><img src="https://github-readme-stats.vercel.app/api?username=the-error4-0-4&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ansh GitHub stats" /></a>
+<a href="http://www.github.com/ANSH127"><img src="https://github-readme-stats.vercel.app/api?username=ANSH127&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ansh GitHub stats" /></a>
 
-<a href="http://www.github.com/the-error4-0-4"><img src="https://github-readme-streak-stats.herokuapp.com/?user=the-error4-0-4&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/ANSH127"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ANSH127&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/the-error4-0-4"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=the-error4-0-4&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/ANSH127"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ANSH127&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
