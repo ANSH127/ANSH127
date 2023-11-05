@@ -8,7 +8,7 @@ Full Stack Web Developer
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [anshdev.com](http://anshdev.com)
 * ✉️  You can contact me at [anshagrawal12348@gmail.com](mailto:anshagrawal12348@gmail.com)
-* 🧠  I'm learning Gatsby
+* 🧠  I'm learning Golang
 
 
 ### Skills
