@@ -73,5 +73,10 @@ Full Stack Web Developer
 </div>
 
 
+### Snake-Eating My Contribution Graph:🐍📈
+
+<img src="https://raw.githubusercontent.com/ANSH127/ANSH127/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+
 
 
