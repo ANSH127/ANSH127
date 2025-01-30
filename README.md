@@ -11,6 +11,9 @@ Full Stack Web Developer
 * 🧠  I'm learning Golang
 
 
+### ⏳ Coding Stats  
+[![wakatime](https://wakatime.com/badge/user/660ccb93-e9f4-453a-9f0b-b32ccfa4a93d.svg)](https://wakatime.com/@660ccb93-e9f4-453a-9f0b-b32ccfa4a93d)  
+
 ### Skills
 
 
